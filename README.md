@@ -2,5 +2,4 @@
 Repositório para desenvolvimento do Trabalho de Conclusão referente ao MBA em Data Science & Analytics USP/Esalq
 <br>
 <br>
-<br>
 ## Repositório em desenvolvimento
